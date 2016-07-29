@@ -1,0 +1,4 @@
+Feature: Access GMail
+In order to access my mail from anywhere
+As a user
+I want to access my GMail inbox

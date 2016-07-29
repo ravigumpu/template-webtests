@@ -1,0 +1,4 @@
+Feature: Search the web
+In order to find out about pretty much anything
+As a user
+I want to be able to search the web
