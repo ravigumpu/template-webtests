@@ -1,4 +1,4 @@
-package au.gov.nsw.transport.webtest;
+package webtest;
 
 import net.thucydides.jbehave.ThucydidesJUnitStory;
 
