@@ -3,7 +3,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>au.gov.nsw.transport</groupId>
+    <groupId>Test</groupId>
     <artifactId>template-webtests</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
@@ -231,19 +231,4 @@
             </plugin>
         </plugins>
     </build>
-
-
-    <distributionManagement>
-        <repository>
-            <id>patlapp2.transport.nsw.gov.au</id>
-            <name>patlapp2.transport.nsw.gov.au-releases</name>
-            <url>http://patlapp2:8090/artifactory/libs-release-local</url>
-        </repository>
-        <snapshotRepository>
-            <id>patlapp2.transport.nsw.gov.au</id>
-            <name>patlapp2.transport.nsw.gov.au-snapshots</name>
-            <url>http://patlapp2:8090/artifactory/libs-snapshot-local</url>
-        </snapshotRepository>
-    </distributionManagement>
-
 </project>
