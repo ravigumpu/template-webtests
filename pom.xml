@@ -30,7 +30,7 @@
         <!--<webdriver.base.url>http://ngenweb01:7011</webdriver.base.url>-->
         <webdriver.base.url>http://www.google.com.au</webdriver.base.url>
         <selenium.grid.url>http://147.200.150.138:4444/wd/hub</selenium.grid.url>
-        <spring.version>3.1.1.RELEASE</spring.version>
+        <spring.version>5.2.22.RELEASE</spring.version>
     </properties>
 
     <prerequisites>
